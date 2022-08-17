@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Duyen.</h1>
 <h3 align="center">An inspiring full stack web developer.</h3>
 
-- 🌱 I’m currently learning **React, CI/CD, Testing**
+- 🌱 I’m currently learning **MERN stack, CI/CD, Testing**
 
 - 📫 How to reach me **hongduyen0705@gmail.com**
 
