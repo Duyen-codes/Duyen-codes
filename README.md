@@ -1,8 +1,8 @@
 <h3 align="center">Hi 👋, I'm Duyen.</h1>
 <h3 align="center">An inspiring full stack web developer.</h3>
 
-- 🌱 Some of the web technologies I'm familiar with: HTML, CSS, JavaScript, React, Redux, Databases, Testing. 
-<p>For more info, please head to my LinkedIn: <a href="https://www.linkedin.com/in/hongduyen/" target="_blank" rel="noreferrer"> </p>
+- 🌱 Some of the web technologies I'm familiar with: HTML, CSS, JavaScript, React, Redux, Databases, Testing (just to name a few)
+
 - 🚀 I'm currently looking for internship opportunities. 
 
 - 📫 How to reach me **hongduyen0705@gmail.com**
