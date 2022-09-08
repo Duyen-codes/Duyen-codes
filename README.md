@@ -1,9 +1,9 @@
-<h3 align="center">Hi 👋, I'm Duyen.</h1>
+<h2 align="center">Hi 👋, I'm Duyen.</h2>
 <h3 align="center">An inspiring full stack web developer.</h3>
 
-- 🚀 I'm currently looking for internship opportunities. 
+🚀 I'm currently looking for internship opportunities. 
 
-- 📫 How to reach me **hongduyen0705@gmail.com**
+📫 How to reach me **hongduyen0705@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
