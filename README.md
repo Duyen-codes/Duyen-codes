@@ -30,6 +30,7 @@
 - Time tracking dashboard fem: https://time-tracking-dashboard-fem-eight.vercel.app/
 - Clipboard landing page: https://clipboard-landing-page-fem-three.vercel.app
 - X'mas 2022 countdown: https://christmas-countdown-duyen-codes.vercel.app/
+- NFT-preview-card fem: https://nft-preview-card-with-grid.vercel.app/
 - Random quote generator: https://random-quote-generator-bay.vercel.app/
 - Animals app: https://animals-react-bc.vercel.app/
 - Weather app by location: https://weather-app-search-by-location.vercel.app/
