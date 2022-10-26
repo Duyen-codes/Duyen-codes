@@ -26,6 +26,7 @@
 - FAQ accordion card: https://faq-accordion-card-main-with-grid.vercel.app/
 - Interactive pricing component: https://interactive-pricing-component-fem-ochre.vercel.app/
 - Sunny side agency landing page: https://sunnyside-agency-landing-page-pied.vercel.app/
+- Social proof section: https://social-proof-section-fem.vercel.app/
 - Blogr landing page: https://blogr-landing-page-rose.vercel.app/
 - Time tracking dashboard fem: https://time-tracking-dashboard-fem-eight.vercel.app/
 - Clipboard landing page: https://clipboard-landing-page-fem-three.vercel.app
