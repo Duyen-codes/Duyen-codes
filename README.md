@@ -33,6 +33,7 @@
 - NFT-preview-card fem: https://nft-preview-card-with-grid.vercel.app/
 - Random quote generator: https://random-quote-generator-bay.vercel.app/
 - Order summary component: https://order-summary-component-fem.vercel.app/
+- Single price component: https://single-price-grid-component-fem-gold.vercel.app/
 - Animals app: https://animals-react-bc.vercel.app/
 - Weather app by location: https://weather-app-search-by-location.vercel.app/
 - Picture search with unsplash api: https://picture-search-app-with-react-unsplash-api.vercel.app/
