@@ -29,6 +29,7 @@
 - Blogr landing page: https://blogr-landing-page-rose.vercel.app/
 - Time tracking dashboard fem: https://time-tracking-dashboard-fem-eight.vercel.app/
 - Clipboard landing page: https://clipboard-landing-page-fem-three.vercel.app
+- Intro component with sign up form: https://intro-component-with-sign-up-form-puce-seven.vercel.app/
 - X'mas 2022 countdown: https://christmas-countdown-duyen-codes.vercel.app/
 - Huddle community landing page: https://huddle-landing-page-with-single-introductory-section-fem.vercel.app/
 - Ping coming soon page: https://ping-single-column-coming-soon-page-ashen-one.vercel.app/
