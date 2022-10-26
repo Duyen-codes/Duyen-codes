@@ -18,7 +18,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duyen-codes&show_icons=true&locale=en" alt="duyen-codes" /></p>
 
-### Projects I've built:
+### Projects:
 - Coffee shop site: https://coffee-site-peach.vercel.app/
 - Easybank landing page: https://easybank-landing-page-master-lake.vercel.app/
 - Ecommerce product page: https://ecommerce-product-page-main-duyen-codes.vercel.app
