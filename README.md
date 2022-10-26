@@ -49,6 +49,7 @@
 - Pokemon app with pokemon api: https://poke-mon-app.vercel.app/
 - QR code component: https://qr-code-component-using-flex-and-grid.vercel.app/
 - TV show search app: https://tv-show-search-iota.vercel.app/
+- Guess my number game: https://guess-my-number-eta-gold.vercel.app/
 - Glass looking website: https://glass-website-duyen-codes.vercel.app
 - Ping pong score keeper app: https://ping-pong-score-keeper-steel.vercel.app/
 - Pig game: https://pig-game-ruddy.vercel.app/
