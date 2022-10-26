@@ -38,6 +38,7 @@
 - Base apparel coming soon page: https://base-apparel-coming-soon-page-two-xi.vercel.app/
 - Article preview component: https://article-preview-component-fem-nu.vercel.app/
 - NFT-preview-card fem: https://nft-preview-card-with-grid.vercel.app/
+- Profile card component: https://profile-card-component-fem.vercel.app/
 - Random quote generator: https://random-quote-generator-bay.vercel.app/
 - Order summary component: https://order-summary-component-fem.vercel.app/
 - Single price component: https://single-price-grid-component-fem-gold.vercel.app/
