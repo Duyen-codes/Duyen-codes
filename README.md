@@ -35,6 +35,7 @@
 - Ping coming soon page: https://ping-single-column-coming-soon-page-ashen-one.vercel.app/
 - Four card feature section: https://four-card-feature-section-fem.vercel.app/
 - Base apparel coming soon page: https://base-apparel-coming-soon-page-two-xi.vercel.app/
+- Article preview component: https://article-preview-component-fem-nu.vercel.app/
 - NFT-preview-card fem: https://nft-preview-card-with-grid.vercel.app/
 - Random quote generator: https://random-quote-generator-bay.vercel.app/
 - Order summary component: https://order-summary-component-fem.vercel.app/
