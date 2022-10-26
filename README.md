@@ -30,6 +30,7 @@
 - Time tracking dashboard fem: https://time-tracking-dashboard-fem-eight.vercel.app/
 - Clipboard landing page: https://clipboard-landing-page-fem-three.vercel.app
 - X'mas 2022 countdown: https://christmas-countdown-duyen-codes.vercel.app/
+- Huddle community landing page: https://huddle-landing-page-with-single-introductory-section-fem.vercel.app/
 - NFT-preview-card fem: https://nft-preview-card-with-grid.vercel.app/
 - Random quote generator: https://random-quote-generator-bay.vercel.app/
 - Order summary component: https://order-summary-component-fem.vercel.app/
