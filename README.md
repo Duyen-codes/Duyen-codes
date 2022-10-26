@@ -21,3 +21,19 @@
 ### Projects
 - Easybank landing page: https://easybank-landing-page-master-lake.vercel.app/
 - Ecommerce product page: https://ecommerce-product-page-main-duyen-codes.vercel.app
+- Huddle landing page with curves: https://huddle-landing-page-curves.vercel.app/
+- Tip calculator app: https://tip-calculator-fem-self.vercel.app/
+- FAQ accordion card: https://faq-accordion-card-main-with-grid.vercel.app/
+- Interactive pricing component: https://interactive-pricing-component-fem-ochre.vercel.app/
+- Sunny side agency landing page: https://sunnyside-agency-landing-page-pied.vercel.app/
+- Blogr landing page: https://blogr-landing-page-rose.vercel.app/
+- Clipboard landing page: https://clipboard-landing-page-fem-three.vercel.app
+- X'mas 2022 countdown: https://christmas-countdown-duyen-codes.vercel.app/
+- Animals app: https://animals-react-bc.vercel.app/
+- Weather app by location: https://weather-app-search-by-location.vercel.app/
+- Picture search with unsplash api: https://picture-search-app-with-react-unsplash-api.vercel.app/
+- Pokemon app with pokemon api: https://poke-mon-app.vercel.app/
+- QR code component: https://qr-code-component-using-flex-and-grid.vercel.app/
+- TV show search app: https://tv-show-search-iota.vercel.app/
+
+
