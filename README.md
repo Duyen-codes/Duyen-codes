@@ -18,5 +18,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duyen-codes&show_icons=true&locale=en" alt="duyen-codes" /></p>
 
-See other projects I have done on Frontendmentor.io here:
-https://www.frontendmentor.io/home/my-challenges?tab=completed
+### Projects
+https://easybank-landing-page-master-lake.vercel.app/
