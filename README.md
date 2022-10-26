@@ -29,6 +29,7 @@
 - Blogr landing page: https://blogr-landing-page-rose.vercel.app/
 - Clipboard landing page: https://clipboard-landing-page-fem-three.vercel.app
 - X'mas 2022 countdown: https://christmas-countdown-duyen-codes.vercel.app/
+- Random quote generator: https://random-quote-generator-bay.vercel.app/
 - Animals app: https://animals-react-bc.vercel.app/
 - Weather app by location: https://weather-app-search-by-location.vercel.app/
 - Picture search with unsplash api: https://picture-search-app-with-react-unsplash-api.vercel.app/
