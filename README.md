@@ -19,10 +19,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duyen-codes&show_icons=true&locale=en" alt="duyen-codes" /></p>
 
 ### Projects:
-- Coffee shop site: https://coffee-site-peach.vercel.app/
 - Easybank landing page: https://easybank-landing-page-master-lake.vercel.app/
 - Ecommerce product page: https://ecommerce-product-page-main-duyen-codes.vercel.app
 - Huddle landing page with curves: https://huddle-landing-page-curves.vercel.app/
+- Coffee shop site: https://coffee-site-peach.vercel.app/
 - Tip calculator app: https://tip-calculator-fem-self.vercel.app/
 - FAQ accordion card: https://faq-accordion-card-main-with-grid.vercel.app/
 - Interactive pricing component: https://interactive-pricing-component-fem-ochre.vercel.app/
