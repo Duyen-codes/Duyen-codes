@@ -18,7 +18,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duyen-codes&show_icons=true&locale=en" alt="duyen-codes" /></p>
 
-### Projects:
+### My Projects:
+- REST countries: https://63036ef0960187005b2c84f1--super-cool-site-by-duyen-codes.netlify.app/
 - Easybank landing page: https://easybank-landing-page-master-lake.vercel.app/
 - Ecommerce product page: https://ecommerce-product-page-main-duyen-codes.vercel.app
 - Huddle landing page with curves: https://huddle-landing-page-curves.vercel.app/
