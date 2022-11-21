@@ -19,6 +19,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duyen-codes&show_icons=true&locale=en" alt="duyen-codes" /></p>
 
 ### My Projects:
+- Wold travel react, redux: https://restcountries-redux.vercel.app/
 - REST countries: https://63036ef0960187005b2c84f1--super-cool-site-by-duyen-codes.netlify.app/
 - Easybank landing page: https://easybank-landing-page-master-lake.vercel.app/
 - Ecommerce product page: https://ecommerce-product-page-main-duyen-codes.vercel.app
