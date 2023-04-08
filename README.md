@@ -1,7 +1,7 @@
 <h1 align="center">Moi 👋, I'm Duyen.</h2>
 <h3 align="center">An inspiring full stack web developer.</h3>
 
-🚀 I'm currently looking for growth opportunities. 
+🚀 
 
 📫 How to reach me **hongduyen0705@gmail.com**
 
