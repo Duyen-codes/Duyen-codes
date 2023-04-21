@@ -1,5 +1,5 @@
 <h1 align="center">Moi 👋, I'm Duyen.</h2>
-<h3 align="center">An inspiring full stack web developer.</h3>
+<h3 align="center">An aspiring full stack web developer.</h3>
 
 🚀 
 
