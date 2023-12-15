@@ -1,9 +1,9 @@
 <h1 align="center">Moi 👋, I'm Duyen.</h2>
 <h3 align="center">An aspiring full stack web developer.</h3>
 
-🚀 
 
-📫 How to reach me **hongduyen0705@gmail.com**
+
+🚀  How to reach me **hongduyen0705@gmail.com**
 
 📫 Connect with me:
 <a href="https://www.linkedin.com/in/hongduyen/" rel="nofollow">LinkedIn</a>
